@@ -1,9 +1,9 @@
 const cacheName = "Gadd Games-Car Physics-0.1.0";
 const contentToCache = [
-    "Build/GCarPhysX.loader.js",
-    "Build/GCarPhysX.framework.js",
-    "Build/GCarPhysX.data",
-    "Build/GCarPhysX.wasm",
+    "Build/WorkingPhysics.loader.js",
+    "Build/WorkingPhysics.framework.js",
+    "Build/WorkingPhysics.data",
+    "Build/WorkingPhysics.wasm",
     "TemplateData/style.css"
 
 ];
